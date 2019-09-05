@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CloneShop</string>
+    <string name="app_logo">App Logo</string>
+    <string name="app_slogan">Find, Discover,\n  Choose and buy anything online.</string>
+    <string name="main_login_button">Already have an account? Login</string>
+    <string name="main_join_now_button">Join Now</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="user_name">Username</string>
+    <string name="user_password">Password</string>
+    <string name="phone_number">Phone Number</string>
+</resources>

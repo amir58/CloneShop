@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386476505374",
+    "firebase_url": "https://shop-38d8a.firebaseio.com",
+    "project_id": "shop-38d8a",
+    "storage_bucket": "shop-38d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386476505374:android:9618dbdf201b7768",
+        "android_client_info": {
+          "package_name": "com.memaro.cloneshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386476505374-v96np235d78fjicvuhb431cam4pqbcuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memaro.cloneshop",
+            "certificate_hash": "e7ce8018e4af4d3196bd55dfde4ecf589144469a"
+          }
+        },
+        {
+          "client_id": "386476505374-mpe9o5isinos13rhuf1dr0tt5bnh8m8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2D7CXX00KjU1lWkCduPcBckoBzGNFr4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386476505374-mpe9o5isinos13rhuf1dr0tt5bnh8m8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
